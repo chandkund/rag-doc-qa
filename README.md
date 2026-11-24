@@ -11,7 +11,6 @@ Upload PDFs, ask questions about their contents, and receive answers with page c
 ## Contents
 
 - [Live demo](#live-demo)
-- [Demo](#demo)
 - [Features](#features)
 - [How it works](#how-it-works)
 - [Architecture](#architecture)
@@ -27,15 +26,10 @@ Upload PDFs, ask questions about their contents, and receive answers with page c
 
 ## Live demo
 
-**Live app:** [TBD](https://your-demo.example.com)
+**Live app:** [TBD](https://rag-doc-qa-phi.vercel.app/)
 
 The free Render backend may take about a minute to wake up. Uploaded-document sessions are kept in memory and are lost when the backend restarts.
 
-## Demo
-
-![Document Q&A demo](docs/images/demo.gif)
-
-*Demo GIF placeholder. Add the recording at `docs/images/demo.gif`.*
 
 ## Features
 
