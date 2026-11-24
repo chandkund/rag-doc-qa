@@ -1,0 +1,174 @@
+[
+  {
+    "question": "How does the chapter define biology?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 1,
+    "expected_keywords": [
+      "science of life forms",
+      "living processes"
+    ]
+  },
+  {
+    "question": "How many species are known and described, according to the chapter?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 3,
+    "expected_keywords": [
+      "1.7",
+      "1.8 million"
+    ]
+  },
+  {
+    "question": "Why is a standard system for naming organisms needed?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 4,
+    "expected_keywords": [
+      "same name",
+      "all over the world"
+    ]
+  },
+  {
+    "question": "Which naming codes are used for plants and animals?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 4,
+    "expected_keywords": [
+      "ICBN",
+      "ICZN"
+    ]
+  },
+  {
+    "question": "In the mango name Mangifera indica, what do the two words represent?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 4,
+    "expected_keywords": [
+      "Mangifera",
+      "genus",
+      "indica",
+      "specific epithet"
+    ]
+  },
+  {
+    "question": "What formatting convention is used for biological names, and what language are they generally based on?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 4,
+    "expected_keywords": [
+      "Latin",
+      "italics"
+    ]
+  },
+  {
+    "question": "How are capitalization and lowercase letters used in a biological name?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 5,
+    "expected_keywords": [
+      "genus",
+      "capital letter",
+      "specific epithet",
+      "small letter"
+    ]
+  },
+  {
+    "question": "Where does the author's abbreviated name appear in a biological name, and what does it indicate?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 5,
+    "expected_keywords": [
+      "after the specific epithet",
+      "Linn.",
+      "Linnaeus"
+    ]
+  },
+  {
+    "question": "What is classification, and what kinds of characters can be used to group organisms?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 5,
+    "expected_keywords": [
+      "convenient categories",
+      "observable characters"
+    ]
+  },
+  {
+    "question": "What information forms the basis of modern taxonomic studies?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 5,
+    "expected_keywords": [
+      "external and internal structure",
+      "cell",
+      "development process",
+      "ecological information"
+    ]
+  },
+  {
+    "question": "What does systematics take into account when studying organisms?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 6,
+    "expected_keywords": [
+      "evolutionary relationships"
+    ]
+  },
+  {
+    "question": "List the main taxonomic categories from kingdom down to species.",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 6,
+    "expected_keywords": [
+      "kingdom",
+      "phylum",
+      "class",
+      "order",
+      "family",
+      "genus",
+      "species"
+    ]
+  },
+  {
+    "question": "How does the chapter distinguish a species from closely related species?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 6,
+    "expected_keywords": [
+      "fundamental similarities",
+      "morphological differences"
+    ]
+  },
+  {
+    "question": "Which animals are given as species in the genus Panthera?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 7,
+    "expected_keywords": [
+      "lion",
+      "leopard",
+      "tiger",
+      "Panthera"
+    ]
+  },
+  {
+    "question": "What happens to the number of shared characteristics as classification moves from species toward kingdom?",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 8,
+    "expected_keywords": [
+      "common characteristics",
+      "decreasing"
+    ]
+  },
+  {
+    "question": "What is the current population of Kempten, Germany?",
+    "answerable": false
+  },
+  {
+    "question": "Define a taxon. Give some examples of taxa at different hierarchical levels.",
+    "expected_source": "kebo101.pdf",
+    "expected_page": 6,
+    "expected_keywords": [
+      "unit of classification",
+      "rank",
+      "animals",
+      "mammals",
+      "dogs"
+    ]
+  },
+  {
+    "question": "On what date was Charles Darwin's On the Origin of Species first published?",
+    "answerable": false
+  },
+  {
+    "question": "How many undiscovered species currently exist on Earth?",
+    "answerable": false
+  }
+]

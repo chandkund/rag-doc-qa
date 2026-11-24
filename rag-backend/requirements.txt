@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+chromadb
+pypdf
+python-multipart
+slowapi
+httpx
+fonttools
